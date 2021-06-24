@@ -1,9 +1,8 @@
 # Mapping
 
-* [Traitor](traitor/)
-  * [Buttons](traitor/buttons.md)
-  * [Doors](traitor/doors.md)
-  * [Tester](traitor/tester.md)
+* [Buttons](t-buttons.md)
+* [Doors](t-doors.md)
+* [Tester](t-tester.md)
 
 
 
