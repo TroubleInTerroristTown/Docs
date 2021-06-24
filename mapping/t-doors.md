@@ -26,3 +26,7 @@ Now click on the \`Add\`-button, and in \`Key\`, paste `ttt_traitor_only`in, and
 
 After that, click `Ok`, then apply, and then click on `SmartEdit` again to turn it back on.
 
+
+
+\_\_[_Text_](https://steam-gamers.net/forums/topic/97622-csgo-ttt-traitor-testers-t-buttons-and-t-doors/) _was written by_ [_20 scrolls_](https://steam-gamers.net/profile/21544-20-scrolls/)_. He allowed us to copy his text for making this public._
+

@@ -18,5 +18,5 @@ And done, you can now add outputs to your button, and it will only be activated 
 
 
 
-[Text](https://steam-gamers.net/forums/topic/97622-csgo-ttt-traitor-testers-t-buttons-and-t-doors/) was written by [20 scrolls](https://steam-gamers.net/profile/21544-20-scrolls/). He allowed us to copy his text for making this public.
+\_\_[_Text_](https://steam-gamers.net/forums/topic/97622-csgo-ttt-traitor-testers-t-buttons-and-t-doors/) _was written by_ [_20 scrolls_](https://steam-gamers.net/profile/21544-20-scrolls/)_. He allowed us to copy his text for making this public._
 
