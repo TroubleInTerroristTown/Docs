@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Shop Items](shop-items.md)
 * [CVar Masks](cvar-masks.md)
 * [Mapping](mapping/README.md)
   * [T Buttons](mapping/t-buttons.md)
