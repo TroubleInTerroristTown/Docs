@@ -13,7 +13,7 @@
 | Explosion Grenade | explosion_i | TODO |
 | Futuristic Grenades | futuristic_i | TODO |
 | Force Shield | forceshield_i | TODO |
-| Health Shot | | TODO |
+| Health Shot | healthshot | TODO |
 | Implosion Grenade | implosion_i | TODO |
 {% endtab %}
 
