@@ -29,7 +29,7 @@
 | Futuristic Grenades | futuristic_d | TODO |
 | Force Shield | forceshield_d | TODO |
 | Health Shot | healthshot_d | TODO |
-| Implosion Grenade | implosion_i | TODO |
+| Implosion Grenade | implosion_d | TODO |
 {% endtab %}
 
 {% tab title="Traitor" %}
@@ -54,7 +54,7 @@
 | Force Shield | forceshield_t | TODO |
 | Health Shot | healthshot_t | TODO |
 | Hurt Shot | hurtshot_t | TODO |
-| Implosion Grenade | implosion_i | TODO |
+| Implosion Grenade | implosion_t | TODO |
 | Invisible Name | invisName_t | TODO |
 | Jihad | jihad | TODO |
 {% endtab %}
